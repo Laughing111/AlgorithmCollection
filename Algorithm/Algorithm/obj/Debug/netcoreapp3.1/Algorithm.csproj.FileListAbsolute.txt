@@ -1,0 +1,13 @@
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.exe
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.deps.json
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.json
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.dev.json
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.dll
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.pdb
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csprojAssemblyReference.cache
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.CoreCompileInputs.cache
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
+D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache
