@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study\\algorithm\\AlgorithmCollection\\Algorithm\\Algorithm\\Algorithm.csproj": {}
+    "D:\\github\\AlgorithmCollection\\Algorithm\\Algorithm\\Algorithm.csproj": {}
   },
   "projects": {
-    "D:\\study\\algorithm\\AlgorithmCollection\\Algorithm\\Algorithm\\Algorithm.csproj": {
+    "D:\\github\\AlgorithmCollection\\Algorithm\\Algorithm\\Algorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\algorithm\\AlgorithmCollection\\Algorithm\\Algorithm\\Algorithm.csproj",
+        "projectUniqueName": "D:\\github\\AlgorithmCollection\\Algorithm\\Algorithm\\Algorithm.csproj",
         "projectName": "Algorithm",
-        "projectPath": "D:\\study\\algorithm\\AlgorithmCollection\\Algorithm\\Algorithm\\Algorithm.csproj",
+        "projectPath": "D:\\github\\AlgorithmCollection\\Algorithm\\Algorithm\\Algorithm.csproj",
         "packagesPath": "C:\\Users\\laughing\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\algorithm\\AlgorithmCollection\\Algorithm\\Algorithm\\obj\\",
+        "outputPath": "D:\\github\\AlgorithmCollection\\Algorithm\\Algorithm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\laughing\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

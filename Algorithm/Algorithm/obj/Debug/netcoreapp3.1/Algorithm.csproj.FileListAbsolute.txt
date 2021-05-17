@@ -11,3 +11,16 @@ D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3
 D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
 D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
 D:\study\algorithm\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache
+D:\github\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.exe
+D:\github\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.deps.json
+D:\github\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.json
+D:\github\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.dev.json
+D:\github\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.dll
+D:\github\AlgorithmCollection\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.pdb
+D:\github\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csprojAssemblyReference.cache
+D:\github\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+D:\github\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+D:\github\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.CoreCompileInputs.cache
+D:\github\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
+D:\github\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
+D:\github\AlgorithmCollection\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache
